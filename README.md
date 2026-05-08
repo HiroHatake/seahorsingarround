@@ -1,2 +1,2 @@
-# seahorsingarround
-Disciplina de Análises Ecológicas no R - Curso de Biologia (Bacharelado) - CCBSA - UEPB Campus V
+# mxr23_Q
+Manuscrito MXR REBio 2023
